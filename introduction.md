@@ -5,3 +5,5 @@ My favorite code school branch is Javascript
 *git
 *javascript
 *ruby
+
+Killing history using git rebase
