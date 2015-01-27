@@ -1,3 +1,4 @@
 hello  helloasdfasdfasdfasfdasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasfdasdfasdfasdfasdfasdfasfdasdfasdfasdfasdfasdfasdfa;sldkfjasd;flkjasdf;lerkjzd;flkjeqr;lzkdjad;fglkjert;ldksfjg;slfkj
 
 My favorite code school branch is Javascript
+Killing history using git rebase
